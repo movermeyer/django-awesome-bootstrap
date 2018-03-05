@@ -2,9 +2,9 @@
 
 .. |version| image:: https://badge.fury.io/py/django-awesome-bootstrap.png
     :target: http://badge.fury.io/py/django-awesome-bootstrap
-.. |downloads| image:: https://pypip.in/d/django-awesome-bootstrap/badge.png
+.. |downloads| image:: https://img.shields.io/pypi/dm/django-awesome-bootstrap.svg
     :target: https://crate.io/packages/django-awesome-bootstrap
-.. |license| image:: https://pypip.in/license/django-awesome-bootstrap/badge.png
+.. |license| image:: https://img.shields.io/pypi/l/django-awesome-bootstrap.svg
     :target: https://pypi.python.org/pypi/django-awesome-bootstrap/
 
 |version| |downloads| |license|
